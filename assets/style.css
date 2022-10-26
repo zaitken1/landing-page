@@ -7,18 +7,23 @@
 /*Header and Navigation*/
 
 header{
-    height: 56px;
-    border-bottom: 10px solid #DDAF94;
+    height: 60px;
+    border-bottom: 5px solid #DDAF94;
 }
 
 header nav{
-    padding: 20px 10px 20px 1000px;
     background-color: #24614f;
-    border: 0 0 5px 0;
+    height: 50px;
+    width: 100%;
+    padding: 10px 0 0 0;
+    position: fixed;
+    display: block;
 }
 
 header nav a{
-    padding: 50px;
+    display: inline;
+    padding: 30px 30px;
+    margin: 20px 20px;
     color: white;
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
