@@ -32,6 +32,7 @@ h1{
     color:#575757;
 }
 
+/*Picture*/
 img {
     display: block;
     margin-left: auto;
@@ -46,19 +47,10 @@ figure figcaption{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/*Form*/
 .form {
     background-color: #e8cebf;
 }
-
-/*
-form{
-    align-items: center;
-    padding: 50px auto 50px auto;
-    font-family: Arial, Helvetica, sans-serif;
-    display: block;
-    width: 150px;
-    height: 150px;
-}*/
 
 form{
     font-family: Arial, Helvetica, sans-serif;
@@ -83,6 +75,7 @@ button{
     align-content: center;
 }
 
+/*Footer and copyright*/
 footer {
     color: #575757;
     text-align: center;
